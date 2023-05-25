@@ -1,5 +1,5 @@
 {
-    "baseUrl": "http://localhost:3000",
+    "baseUrl": null,
     "video": false,
     "screenshotsFolder": "cypress/screenshots",
     "videosFolder": "cypress/videos",
